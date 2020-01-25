@@ -1,0 +1,173 @@
+[
+    {
+        "title": "Dependency Management 2.0 - A semantic web enabled approach",
+        "id":"T1",
+        "type": "Thesis",
+        "year": "2019",
+        "completeVenue": "Concordia University, Ph.D Thesis",
+        "authors": [
+            "Ellis E. Eghan"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/file/d/1zcAhbktXJiHbeb2nkPU87j0UkY_69Fu4/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "title": "The missing link - {A} semantic web based approach for integrating screencasts with security advisories",
+        "id":"J3",
+        "type": "Journal Paper",
+        "year": "2020",
+        "venue": "IST",
+        "completeVenue": "Information and Software Technology, Vol. 117",
+        "authors": [
+            "Ellis E. Eghan",
+            "Parisa Moslehi",
+            "Juergen Rilling",
+            "Bram Adams"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/file/d/1AQLEhGITJzL2VM1jAuUWGltFiMNdz2ft/view?usp=sharing"
+            },
+            {
+                "class": "doi",
+                "url": "https://doi.org/10.1016/j.infsof.2019.106197"
+            }
+        ]
+    },
+    {
+        "title": "API trustworthiness: an ontological approach for software library adoption",
+        "id":"J2",
+        "type": "Journal Paper",
+        "year": "2019",
+        "venue": "SQJO",
+        "completeVenue": "Software Quality Journal, Vol. 27(3)",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Christopher Forbes",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/file/d/1C9A6dEvOhtCO9ufalZunE-dtjm0E-8Gk/view?usp=sharing"
+            },
+            {
+                "class": "doi",
+                "url": "https://doi.org/10.1007/s11219-018-9428-4"
+            }
+        ]
+    },
+    {
+        "title": "Recovering Semantic Traceability Links between APIs and Security Vulnerabilities: An Ontological Modeling Approach",
+        "id":"C2",
+        "type": "Conference Paper",
+        "year": "2017",
+        "venue": "ICST",
+        "completeVenue": "IEEE International Conference on Software Testing, Verification and Validation, Tokyo, Japan, March 13-17, 2017",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/open?id=0BxcZpo8M4V7mOHFFUldjUzlNNzA"
+            },
+            {
+                "class": "doi",
+                "url": "https://doi.org/10.1109/ICST.2017.15"
+            }
+        ]
+    },
+    {
+        "title": "SV-AF - A Security Vulnerability Analysis Framework",
+        "id":"C1",
+        "type": "Conference Paper",
+        "year": "2016",
+        "venue": "ISSRE",
+        "completeVenue": "27th IEEE International Symposium on Software Reliability Engineering, Ottawa, Canada, October 23-27, 2016}",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/open?id=0BxcZpo8M4V7mZzl2b2JwSUNCdWM"
+            },
+            {
+                "class": "doi",
+                "url": "https://doi.org/10.1109/ISSRE.2016.12"
+            }
+        ]
+    },
+    {
+        "title": "Tracing known security vulnerabilities in software repositories - A Semantic Web enabled modeling approach",
+        "id":"J1",
+        "type": "Journal Paper",
+        "year": "2016",
+        "venue": "SCP",
+        "completeVenue": "Science of Computer Programming, Vol. 121",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/open?id=0BxcZpo8M4V7mSHE2RWh0a0EwdWc"
+            },
+            {
+                "class": "doi",
+                "url": "https://doi.org/10.1016/j.scico.2016.01.005"
+            }
+        ]
+    },
+    {
+        "title": "A Semantic Web Enabled Approach for Dependency Management",
+        "id":"P2",
+        "type": "Poster",
+        "year": "2017",
+        "venue": "SERC Concordia",
+        "completeVenue": "Concordia Software Engineering Research Center - CONNECT",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/open?id=0BxcZpo8M4V7mRlFhMlhrNnN3bW8"
+            }
+        ]
+    },
+    {
+        "title": "Software Security Vulnerability Analysis Project",
+        "id":"P1",
+        "type": "Poster",
+        "year": "2016",
+        "venue": "MOSART",
+        "completeVenue": "Montreal Software Research Analysis Talks (MOSART)",
+        "authors": [
+            "Ellis E. Eghan",
+            "Sultan S. Alqahtani",
+            "Juergen Rilling"
+        ],
+        "downloads": [
+            {
+                "class": "pdf",
+                "url": "https://drive.google.com/open?id=0BxcZpo8M4V7mUEJDQmdya1d2eHM"
+            }
+        ]
+    }
+]
